@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valytosdarzoves.github.io/valytos-darzoves/sitemap.xml
